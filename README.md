@@ -11,7 +11,7 @@ Key Components:
    - Utilization of YOLO's ability to detect multiple objects simultaneously with bounding box coordinates.
 
 2. Object Tracking 
-   - Implementation of object tracking algorithms, such as optical flow or Kalman filtering, to follow the detected cars across consecutive frames.
+   - Implementation of object tracking algorithms to follow the detected cars across consecutive frames.
    - Enhancing the stability and robustness of tracking algorithms to handle occlusions and varying traffic conditions.
 
 3. Real-time Visualization:
